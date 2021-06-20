@@ -1,2 +1,2 @@
 # Calculatorandroidapp
-Description By Pavan 
+Developed By Pavan 
